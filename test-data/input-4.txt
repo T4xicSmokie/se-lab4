@@ -1,0 +1,4 @@
+# SINGLE: primary is empty on first shot -> fire secondary
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # primary empty -> secondary
+TORPEDO,SINGLE  # both empty -> FAIL
